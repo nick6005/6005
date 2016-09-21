@@ -101,17 +101,17 @@ alex@mail.ru
 
 ** Задания
 
-*** TODO 25.09.2016 | Иностранный язык | [[https://yadi.sk/i/zySQ_5l3vVxed][Intrance Test]]
-SCHEDULED: <2016-09-25 Sun>
+*** TODO 2016-09-25 | Иностранный язык | [[https://yadi.sk/i/zySQ_5l3vVxed][Intrance Test]]
+DEADLINE: <2016-09-25 Sun>
 
-*** TODO 05.10.2016 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов]]
-SCHEDULED: <2016-10-05 Wed>
+*** TODO 2016-10-31 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов]]
+DEADLINE: <2016-10-05 Wed>
 
 Сдать 2 варианта.
 В зависимости от четности последней цифры студенческого билета.
 
-*** TODO 31.10.2016 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты]]
-SCHEDULED: <2016-10-31 Mon>
+*** TODO 2016-10-31 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты]]
+DEADLINE: <2016-10-31 Mon>
 
 Сдать 8 файлов.
 
