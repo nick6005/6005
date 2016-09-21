@@ -102,7 +102,7 @@ alex@mail.ru
 *** TODO 2016-09-25 | Иностранный язык | [[https://yadi.sk/i/zySQ_5l3vVxed][Intrance Test]]
 DEADLINE: <2016-09-25 Sun>
 
-*** TODO 2016-10-31 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов]]
+*** TODO 2016-10-31 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов по истории IX-XIX вв.]]
 DEADLINE: <2016-10-05 Wed>
 
 Сдать 2 варианта.
@@ -115,7 +115,7 @@ DEADLINE: <2016-10-05 Wed>
 
 [[https://yadi.sk/i/8FF1acSAvWKf7][Правила ответов на вопросы]]
 
-*** TODO 2016-10-31 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты]]
+*** TODO 2016-10-31 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты с вопросами]]
 DEADLINE: <2016-10-31 Mon>
 
 Сдать 8 файлов.
