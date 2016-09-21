@@ -113,6 +113,8 @@ DEADLINE: <2016-10-05 Wed>
 - 1 из Московской руси
 - 1 из императорской России
 
+[[https://yadi.sk/i/8FF1acSAvWKf7][Правила ответов на вопросы]]
+
 *** TODO 2016-10-31 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты]]
 DEADLINE: <2016-10-31 Mon>
 
