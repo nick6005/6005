@@ -107,6 +107,14 @@ SCHEDULED: <2016-09-25 Sun>
 *** TODO 05.10.2016 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов]]
 SCHEDULED: <2016-10-05 Wed>
 
+Сдать 2 варианта.
+В зависимости от четности последней цифры студенческого билета.
+
+*** TODO 31.10.2016 | Инженерная и компьютерная графика | [[http://www.eltech.ru/ru/fakultety/fakultet-informacionno-izmeritelnyh-i-biotehnicheskih-sistem/sostav-fakulteta/kafedra-prikladnoy-mehaniki-i-inzhenernoy-grafiki/chitaemye-discipliny/inzhenernaya-grafika][Варианты]]
+SCHEDULED: <2016-10-31 Mon>
+
+Сдать 8 файлов.
+
 ** Материалы
 *** [[https://yadi.sk/d/lEmOIxyhvStZ7][Иностранный язык]]
 *** [[https://yadi.sk/d/EVAqJiLnvStZo][История]]
