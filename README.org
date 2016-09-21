@@ -113,7 +113,7 @@ alex@mail.ru
 *** TODO 25.09.2016 | Иностранный язык | [[https://yadi.sk/i/zySQ_5l3vVxed][Intrance Test]]
 SCHEDULED: <2016-09-25 Sun>
 
-*** TODO 05.10.2016 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов для контрольной работы студентов заочного отделения]]
+*** TODO 05.10.2016 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов]]
 SCHEDULED: <2016-10-05 Wed>
 
 * Сайты
