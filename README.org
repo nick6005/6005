@@ -100,7 +100,7 @@ alex@mail.ru
 
 Расписание занятий заочно вечерней группы висит в ВУЗе на 2 этаже корпус 3.
 
-* TODO Сессия
+* Сессия
 
 ** Начало
 
@@ -112,6 +112,9 @@ alex@mail.ru
 
 *** TODO 25.09.2016 | Иностранный язык | [[https://yadi.sk/i/zySQ_5l3vVxed][Intrance Test]]
 SCHEDULED: <2016-09-25 Sun>
+
+*** TODO 05.10.2016 | История | [[https://yadi.sk/i/b8SWi1EkvVygd][Список вопросов для контрольной работы студентов заочного отделения]]
+SCHEDULED: <2016-10-05 Wed>
 
 * Сайты
 
@@ -148,7 +151,7 @@ SCHEDULED: <2016-09-25 Sun>
 
 - [[http://www.mathprofi.ru/kompleksnye_chisla_dlya_chainikov.html][www.mathprofi.ru | Комплексные числа для чайников]]
 
-* TODO Контактная книга университета
+* Контактная книга университета
 
 ** Преподаватели
 
