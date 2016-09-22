@@ -182,6 +182,10 @@ DEADLINE: <2016-10-31 Mon>
 - https://text.ru/antiplagiat
 - https://www.antiplagiat.ru
 
+*** Иностранный язык
+- [[http://www.gingersoftware.com/grammarcheck][www.gingersoftware.com | grammarcheck]]
+- [[http://www.gingersoftware.com/products/sentence-rephraser][www.gingersoftware.com | sentence-rephraser]]
+
 * [[https://yadi.sk/d/QJoB79mivT4Ne][Документы, справки]]
 
 ** Справка вызова
