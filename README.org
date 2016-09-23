@@ -123,7 +123,7 @@ DEADLINE: <2016-10-05 Wed>
 - 1 из Киевской руси;
 - 1 из Московской руси;
 - 1 из императорской России.
-Тоесть *не нужно делать 12 вопросов*.
+То есть *не нужно делать 12 вопросов*.
 
 [[https://yadi.sk/i/8FF1acSAvWKf7][Правила ответов на вопросы]]
 
@@ -139,7 +139,7 @@ DEADLINE: <2016-10-31 Mon>
 *** [[https://yadi.sk/d/-weSHexnvSta6][Алгебра]]
 *** [[https://yadi.sk/d/sVo7kxS3vSuR6][Химия]]
 *** [[https://yadi.sk/d/M1OTQwOGvSuLm][Инженерная и компьютерная графика]]
-*** [[https://yadi.sk/d/-W6IWdzEvStan][Программирование]]
+*** [[https://yadi.sk/d/-W6IWdzEvStan][Практикум по программированию]]
 *** [[https://drive.google.com/drive/folders/0BwXp5Vsxw6GlaTh4WlBaUTNZVmc][drive.google.com | 4005]]
 
 
